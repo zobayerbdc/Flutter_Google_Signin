@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "247292569309",
+    "project_id": "nayem-e0f76",
+    "storage_bucket": "nayem-e0f76.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247292569309:android:263896b1cfc16779209d34",
+        "android_client_info": {
+          "package_name": "com.example.flutter_gsign_in"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALVUSgvxq_yLnYnnRhAJawC-XOr4TrQ28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
